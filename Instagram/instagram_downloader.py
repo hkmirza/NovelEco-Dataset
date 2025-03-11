@@ -6,8 +6,8 @@ import time
 L = instaloader.Instaloader()
 
 # **Login to Instagram (Required for full text access)**
-USERNAME = "hkmirza_kitchen"  # Replace with your Instagram username
-PASSWORD = "Aforapple213"  # Replace with your Instagram password
+USERNAME = "abcdef"  # Replace abcdef with your Instagram username
+PASSWORD = "123456"  # Replace 123456 with your Instagram password
 
 # Attempt to load session if previously saved
 try:
